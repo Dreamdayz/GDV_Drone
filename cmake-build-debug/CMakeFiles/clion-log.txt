@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\KOgie\CLionProjects\GDV_Drone
+CMake Error at CMakeLists.txt:24 (file):
+  file COPY cannot find "C:/Users/KOgie/CLionProjects/GDV_Drone/Resources".
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/KOgie/CLionProjects/GDV_Drone/cmake-build-debug/CMakeFiles/CMakeOutput.log".
